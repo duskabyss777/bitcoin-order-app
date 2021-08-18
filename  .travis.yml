@@ -8,7 +8,7 @@ sudo: required
 notifications:
   email:
     recipients:
-      - <your email address>
+      - hebnmadge@163.com
     on_success: always
     on_failure: always
 branches:
